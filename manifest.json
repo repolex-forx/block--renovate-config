@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "renovate-config",
+  "versions": [
+    {
+      "commit": "2e51a088c18cd126525b9c3440d6007d5d1e6d38",
+      "parsed_at": "2026-10-08T11:10:42.337444+00:00",
+      "tag": "main",
+      "filetree": "filetree/2e51a088c18cd126525b9c3440d6007d5d1e6d38.nq.gz",
+      "blobs": [
+        "blob/97fa4add338fa1e2e4d6b08d2bce6561a457d653.nq.gz",
+        "blob/9ab05b22f407ca72dec4365c2624c3b09cec97e2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
